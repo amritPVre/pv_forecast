@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run pv_fc_v01.py
